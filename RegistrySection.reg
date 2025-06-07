@@ -1,0 +1,2331 @@
+﻿Windows Registry Editor Version 5.00
+
+; [Registry] section exported from install_script.iss
+
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ascx\OpenWithProgids]
+"Void.ascx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ascx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ascx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\xml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ascx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ascx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.asp\OpenWithProgids]
+"Void.asp"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.asp]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.asp\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.asp\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.asp\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.aspx\OpenWithProgids]
+"Void.aspx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.aspx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.aspx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.aspx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.aspx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bash\OpenWithProgids]
+"Void.bash"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bash_login\OpenWithProgids]
+"Void.bash_login"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_login]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_login\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_login\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_login\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bash_logout\OpenWithProgids]
+"Void.bash_logout"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_logout]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_logout\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_logout\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_logout\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bash_profile\OpenWithProgids]
+"Void.bash_profile"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_profile]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_profile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_profile\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bash_profile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bashrc\OpenWithProgids]
+"Void.bashrc"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bashrc]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bashrc\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bashrc\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bashrc\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bib\OpenWithProgids]
+"Void.bib"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bib]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bib\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bib\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bib\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.bowerrc\OpenWithProgids]
+"Void.bowerrc"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bowerrc]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bowerrc\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\bower.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bowerrc\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.bowerrc\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.c++\OpenWithProgids]
+"Void.c++"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c++]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c++\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c++\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.c\OpenWithProgids]
+"Void.c"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\c.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.c\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cc\OpenWithProgids]
+"Void.cc"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cc]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cc\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cc\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cc\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cfg\OpenWithProgids]
+"Void.cfg"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cfg]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cfg\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cfg\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cfg\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cjs\OpenWithProgids]
+"Void.cjs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cjs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cjs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\javascript.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cjs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cjs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.clj\OpenWithProgids]
+"Void.clj"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clj]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clj\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clj\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clj\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cljs\OpenWithProgids]
+"Void.cljs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cljx\OpenWithProgids]
+"Void.cljx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cljx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.clojure\OpenWithProgids]
+"Void.clojure"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clojure]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clojure\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clojure\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.clojure\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cls\OpenWithProgids]
+"Void.cls"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cls]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cls\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cls\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cls\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.code-workspace\OpenWithProgids]
+"Void.code-workspace"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.code-workspace]
+@="CustomMessage:SourceFile"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.code]
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.code-workspace\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.code-workspace\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.code-workspace\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cmake\OpenWithProgids]
+"Void.cmake"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cmake]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cmake\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cmake\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cmake\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.coffee\OpenWithProgids]
+"Void.coffee"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.coffee]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.coffee\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.coffee\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.coffee\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.config\OpenWithProgids]
+"Void.config"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.config]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.config\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.config\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.config\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.containerfile\OpenWithProgids]
+"Void.containerfile"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.containerfile]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.containerfile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.containerfile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cpp\OpenWithProgids]
+"Void.cpp"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cpp]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cpp\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cpp\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cpp\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cs\OpenWithProgids]
+"Void.cs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\csharp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cshtml\OpenWithProgids]
+"Void.cshtml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cshtml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cshtml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cshtml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cshtml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.csproj\OpenWithProgids]
+"Void.csproj"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csproj]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csproj\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\xml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csproj\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csproj\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.css\OpenWithProgids]
+"Void.css"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.css]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.css\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\css.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.css\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.css\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.csv\OpenWithProgids]
+"Void.csv"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csv]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csv\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csv\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csv\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.csx\OpenWithProgids]
+"Void.csx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\csharp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.csx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ctp\OpenWithProgids]
+"Void.ctp"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ctp]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ctp\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ctp\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ctp\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.cxx\OpenWithProgids]
+"Void.cxx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cxx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cxx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cxx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.cxx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.dart\OpenWithProgids]
+"Void.dart"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dart]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dart\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dart\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dart\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.diff\OpenWithProgids]
+"Void.diff"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.diff]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.diff\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.diff\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.diff\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.dockerfile\OpenWithProgids]
+"Void.dockerfile"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dockerfile]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dockerfile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dockerfile\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dockerfile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.dot\OpenWithProgids]
+"Void.dot"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dot]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dot\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dot\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dot\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.dtd\OpenWithProgids]
+"Void.dtd"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dtd]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dtd\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\xml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dtd\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.dtd\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.editorconfig\OpenWithProgids]
+"Void.editorconfig"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.editorconfig]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.editorconfig\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.editorconfig\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.editorconfig\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.edn\OpenWithProgids]
+"Void.edn"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.edn]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.edn\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.edn\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.edn\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.erb\OpenWithProgids]
+"Void.erb"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.erb]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.erb\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\ruby.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.erb\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.erb\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.eyaml\OpenWithProgids]
+"Void.eyaml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyaml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyaml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\yaml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyaml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyaml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.eyml\OpenWithProgids]
+"Void.eyml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\yaml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.eyml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.fs\OpenWithProgids]
+"Void.fs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.fsi\OpenWithProgids]
+"Void.fsi"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsi]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsi\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsi\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsi\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.fsscript\OpenWithProgids]
+"Void.fsscript"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsscript]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsscript\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsscript\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsscript\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.fsx\OpenWithProgids]
+"Void.fsx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.fsx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.gemspec\OpenWithProgids]
+"Void.gemspec"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gemspec]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gemspec\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\ruby.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gemspec\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gemspec\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.gitattributes\OpenWithProgids]
+"Void.gitattributes"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitattributes]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+"AlwaysShowExt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitattributes\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitattributes\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitattributes\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.gitconfig\OpenWithProgids]
+"Void.gitconfig"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitconfig]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+"AlwaysShowExt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitconfig\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitconfig\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitconfig\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.gitignore\OpenWithProgids]
+"Void.gitignore"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitignore]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+"AlwaysShowExt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitignore\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitignore\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gitignore\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.go\OpenWithProgids]
+"Void.go"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.go]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.go\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\go.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.go\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.go\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.gradle\OpenWithProgids]
+"Void.gradle"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gradle]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gradle\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gradle\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.gradle\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.groovy\OpenWithProgids]
+"Void.groovy"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.groovy]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.groovy\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.groovy\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.groovy\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.h\OpenWithProgids]
+"Void.h"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\c.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.handlebars\OpenWithProgids]
+"Void.handlebars"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.handlebars]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.handlebars\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.handlebars\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.handlebars\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.hbs\OpenWithProgids]
+"Void.hbs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hbs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hbs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hbs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hbs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.h++\OpenWithProgids]
+"Void.h++"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h++]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h++\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.h++\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.hh\OpenWithProgids]
+"Void.hh"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hh]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hh\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hh\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hh\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.hpp\OpenWithProgids]
+"Void.hpp"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hpp]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hpp\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hpp\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hpp\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.htm\OpenWithProgids]
+"Void.htm"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.htm]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.htm\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.htm\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.htm\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.html\OpenWithProgids]
+"Void.html"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.html]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.html\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.html\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.html\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.hxx\OpenWithProgids]
+"Void.hxx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hxx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hxx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\cpp.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hxx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.hxx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ini\OpenWithProgids]
+"Void.ini"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ini]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ini\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\config.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ini\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ini\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ipynb\OpenWithProgids]
+"Void.ipynb"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ipynb]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ipynb\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ipynb\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ipynb\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jade\OpenWithProgids]
+"Void.jade"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jade]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jade\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\jade.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jade\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jade\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jav\OpenWithProgids]
+"Void.jav"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jav]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jav\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\java.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jav\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jav\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.java\OpenWithProgids]
+"Void.java"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.java]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.java\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\java.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.java\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.java\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.js\OpenWithProgids]
+"Void.js"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.js]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.js\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\javascript.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.js\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.js\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jsx\OpenWithProgids]
+"Void.jsx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\react.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jscsrc\OpenWithProgids]
+"Void.jscsrc"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jscsrc]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jscsrc\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\javascript.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jscsrc\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jscsrc\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jshintrc\OpenWithProgids]
+"Void.jshintrc"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshintrc]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshintrc\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\javascript.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshintrc\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshintrc\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jshtm\OpenWithProgids]
+"Void.jshtm"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshtm]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshtm\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshtm\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jshtm\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.json\OpenWithProgids]
+"Void.json"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.json]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.json\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\json.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.json\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.json\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.jsp\OpenWithProgids]
+"Void.jsp"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsp]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsp\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsp\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.jsp\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.less\OpenWithProgids]
+"Void.less"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.less]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.less\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\less.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.less\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.less\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.log\OpenWithProgids]
+"Void.log"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.log]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.log\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.log\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.log\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.lua\OpenWithProgids]
+"Void.lua"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.lua]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.lua\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.lua\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.lua\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.m\OpenWithProgids]
+"Void.m"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.m]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.m\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.m\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.m\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.makefile\OpenWithProgids]
+"Void.makefile"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.makefile]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.makefile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.makefile\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.makefile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.markdown\OpenWithProgids]
+"Void.markdown"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.markdown]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.markdown\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.markdown\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.markdown\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.md\OpenWithProgids]
+"Void.md"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.md]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.md\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.md\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.md\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mdoc\OpenWithProgids]
+"Void.mdoc"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdoc]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdoc\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdoc\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdoc\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mdown\OpenWithProgids]
+"Void.mdown"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdown]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdown\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdown\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdown\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mdtext\OpenWithProgids]
+"Void.mdtext"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtext]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtext\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtext\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtext\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mdtxt\OpenWithProgids]
+"Void.mdtxt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtxt]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtxt\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtxt\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdtxt\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mdwn\OpenWithProgids]
+"Void.mdwn"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdwn]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdwn\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdwn\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mdwn\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mk\OpenWithProgids]
+"Void.mk"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mk]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mk\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mk\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mk\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mkd\OpenWithProgids]
+"Void.mkd"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkd]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkd\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkd\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkd\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mkdn\OpenWithProgids]
+"Void.mkdn"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkdn]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkdn\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\markdown.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkdn\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mkdn\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ml\OpenWithProgids]
+"Void.ml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mli\OpenWithProgids]
+"Void.mli"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mli]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mli\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mli\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mli\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.mjs\OpenWithProgids]
+"Void.mjs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mjs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mjs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\javascript.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mjs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.mjs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.npmignore\OpenWithProgids]
+"Void.npmignore"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.npmignore]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+"AlwaysShowExt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.npmignore\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.npmignore\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.npmignore\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.php\OpenWithProgids]
+"Void.php"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.php]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.php\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\php.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.php\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.php\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.phtml\OpenWithProgids]
+"Void.phtml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.phtml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.phtml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.phtml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.phtml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pl\OpenWithProgids]
+"Void.pl"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pl6\OpenWithProgids]
+"Void.pl6"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl6]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl6\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl6\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pl6\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.plist\OpenWithProgids]
+"Void.plist"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.plist]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.plist\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.plist\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.plist\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pm\OpenWithProgids]
+"Void.pm"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pm6\OpenWithProgids]
+"Void.pm6"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm6]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm6\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm6\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pm6\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pod\OpenWithProgids]
+"Void.pod"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pod]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pod\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pod\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pod\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pp\OpenWithProgids]
+"Void.pp"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pp]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pp\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pp\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pp\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.profile\OpenWithProgids]
+"Void.profile"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.profile]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.profile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.profile\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.profile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.properties\OpenWithProgids]
+"Void.properties"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.properties]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.properties\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.properties\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.properties\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ps1\OpenWithProgids]
+"Void.ps1"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ps1]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ps1\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\powershell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ps1\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ps1\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.psd1\OpenWithProgids]
+"Void.psd1"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psd1]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psd1\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\powershell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psd1\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psd1\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.psgi\OpenWithProgids]
+"Void.psgi"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psgi]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psgi\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psgi\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psgi\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.psm1\OpenWithProgids]
+"Void.psm1"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psm1]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psm1\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\powershell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psm1\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.psm1\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.py\OpenWithProgids]
+"Void.py"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.py]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.py\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\python.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.py\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.py\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.pyi\OpenWithProgids]
+"Void.pyi"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pyi]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pyi\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\python.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pyi\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.pyi\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.r\OpenWithProgids]
+"Void.r"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.r]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.r\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.r\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.r\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.rb\OpenWithProgids]
+"Void.rb"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rb]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rb\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\ruby.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rb\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rb\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.rhistory\OpenWithProgids]
+"Void.rhistory"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rhistory]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rhistory\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rhistory\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rhistory\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.rprofile\OpenWithProgids]
+"Void.rprofile"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rprofile]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rprofile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rprofile\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rprofile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.rs\OpenWithProgids]
+"Void.rs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.rst\OpenWithProgids]
+"Void.rst"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rst]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rst\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rst\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rst\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.rt\OpenWithProgids]
+"Void.rt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rt]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rt\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rt\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.rt\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.sass\OpenWithProgids]
+"Void.sass"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sass]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sass\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\sass.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sass\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sass\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.scss\OpenWithProgids]
+"Void.scss"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.scss]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.scss\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\sass.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.scss\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.scss\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.sh\OpenWithProgids]
+"Void.sh"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sh]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sh\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sh\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sh\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.shtml\OpenWithProgids]
+"Void.shtml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.shtml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.shtml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.shtml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.shtml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.sql\OpenWithProgids]
+"Void.sql"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sql]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sql\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\sql.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sql\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.sql\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.svg\OpenWithProgids]
+"Void.svg"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.svg]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.svg\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.svg\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.svg\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.t\OpenWithProgids]
+"Void.t"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.t]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.t\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.t\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.t\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.tex\OpenWithProgids]
+"Void.tex"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tex]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tex\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tex\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tex\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.ts\OpenWithProgids]
+"Void.ts"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ts]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ts\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\typescript.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ts\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.ts\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.toml\OpenWithProgids]
+"Void.toml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.toml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.toml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.toml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.toml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.tsx\OpenWithProgids]
+"Void.tsx"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tsx]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tsx\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\react.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tsx\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.tsx\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.txt\OpenWithProgids]
+"Void.txt"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.txt]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.txt\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.txt\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.txt\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.vb\OpenWithProgids]
+"Void.vb"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vb]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vb\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vb\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vb\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.vue\OpenWithProgids]
+"Void.vue"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vue]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vue\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\vue.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vue\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.vue\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.wxi\OpenWithProgids]
+"Void.wxi"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxi]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxi\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxi\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxi\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.wxl\OpenWithProgids]
+"Void.wxl"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxl]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxl\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxl\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxl\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.wxs\OpenWithProgids]
+"Void.wxs"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxs]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxs\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxs\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.wxs\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.xaml\OpenWithProgids]
+"Void.xaml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xaml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xaml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\xml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xaml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xaml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.xhtml\OpenWithProgids]
+"Void.xhtml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xhtml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xhtml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\html.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xhtml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xhtml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.xml\OpenWithProgids]
+"Void.xml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\xml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.xml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.yaml\OpenWithProgids]
+"Void.yaml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yaml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yaml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\yaml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yaml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yaml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.yml\OpenWithProgids]
+"Void.yml"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yml]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yml\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\yaml.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yml\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.yml\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\.zsh\OpenWithProgids]
+"Void.zsh"=""
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.zsh]
+@="CustomMessage:SourceFile"
+"AppUserModelID"="Void.Void"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.zsh\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\shell.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.zsh\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Void.zsh\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\VoidSourceFile]
+@="CustomMessage:SourceFile"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\VoidSourceFile\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\VoidSourceFile\shell\open]
+@="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\VoidSourceFile\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Applications\Void.exe]
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Applications\Void.exe\DefaultIcon]
+@="C:\Program Files\Void\resources\app\resources\win32\default.ico"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Applications\Void.exe\shell\open]
+"Icon"="C:\Program Files\Void\Void.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Applications\Void.exe\shell\open\command]
+@="C:\Program Files\Void\Void.exe %1"
+
+[HKEY_LOCAL_MACHINE\Software\Classes\VoidContextMenu]
+"Title"=hex(2):7b,00,63,00,6d,00,3a,00,4f,00,70,00,65,00,6e,00,57,00,69,00,74,00,68,00,43,00,6f,00,64,00,65,00,43,00,6f,00,6e,00,74,00,65,00,78,00,74,00,4d,00,65,00,6e,00,75,00,2c,00,56,00,6f,00,69,00,64,00,7d,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\*\shell\Void]
+@=hex(2):7b,00,63,00,6d,00,3a,00,4f,00,70,00,65,00,6e,00,57,00,69,00,74,00,68,00,43,00,6f,00,64,00,65,00,43,00,6f,00,6e,00,74,00,65,00,78,00,74,00,4d,00,65,00,6e,00,75,00,2c,00,56,00,6f,00,69,00,64,00,7d,00,00,00
+"Icon"=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\*\shell\Void\command]
+@=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,20,00,25,00,31,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\directory\shell\Void]
+@=hex(2):7b,00,63,00,6d,00,3a,00,4f,00,70,00,65,00,6e,00,57,00,69,00,74,00,68,00,43,00,6f,00,64,00,65,00,43,00,6f,00,6e,00,74,00,65,00,78,00,74,00,4d,00,65,00,6e,00,75,00,2c,00,56,00,6f,00,69,00,64,00,7d,00,00,00
+"Icon"=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\directory\shell\Void\command]
+@=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,20,00,25,00,56,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\directory\background\shell\Void]
+@=hex(2):7b,00,63,00,6d,00,3a,00,4f,00,70,00,65,00,6e,00,57,00,69,00,74,00,68,00,43,00,6f,00,64,00,65,00,43,00,6f,00,6e,00,74,00,65,00,78,00,74,00,4d,00,65,00,6e,00,75,00,2c,00,56,00,6f,00,69,00,64,00,7d,00,00,00
+"Icon"=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\directory\background\shell\Void\command]
+@=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,20,00,25,00,56,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Drive\shell\Void]
+@=hex(2):7b,00,63,00,6d,00,3a,00,4f,00,70,00,65,00,6e,00,57,00,69,00,74,00,68,00,43,00,6f,00,64,00,65,00,43,00,6f,00,6e,00,74,00,65,00,78,00,74,00,4d,00,65,00,6e,00,75,00,2c,00,56,00,6f,00,69,00,64,00,7d,00,00,00
+"Icon"=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Classes\Drive\shell\Void\command]
+@=hex(2):7b,00,61,00,70,00,70,00,7d,00,5c,00,56,00,6f,00,69,00,64,00,2e,00,65,00,78,00,65,00,20,00,25,00,56,00,00,00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Environment]
+"Path"=hex(2):7b,00,63,00,6f,00,64,00,65,00,3a,00,41,00,64,00,64,00,54,00,6f,00,50,00,61,00,74,00,68,00,7c,00,7b,00,61,00,70,00,70,00,7d,00,5c,00,62,00,69,00,6e,00,7d,00,00,00
+
